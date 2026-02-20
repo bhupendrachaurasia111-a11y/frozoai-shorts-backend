@@ -6,6 +6,7 @@
     "start": "node server.js"
   },
   "dependencies": {
+    "@supabase/supabase-js": "^2.97.0",
     "axios": "^1.6.0",
     "cors": "^2.8.5",
     "edge-tts": "latest",
